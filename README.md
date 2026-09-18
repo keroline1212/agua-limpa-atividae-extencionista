@@ -25,7 +25,9 @@ A proposta é utilizar a tecnologia como uma ferramenta de **informação e cons
 O site apresenta informações sobre a importância da água, preservação ambiental, uso consciente e saneamento básico, buscando transmitir o conteúdo de forma simples e acessível.
 
 O projeto foi desenvolvido e publicado utilizando o **GitHub Pages**.
+## Avalie o site:
 
+Link do formulário: https://docs.google.com/forms/d/e/1FAIpQLSctE0nJPzUOa3pfW-kFHleIpkMcYHQisJzQ-a8TU9eZ01xHuQ/viewform?usp=publish-editor
 ## Autora
 
 **Keroline Luthke Flavio**
